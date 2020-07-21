@@ -7,3 +7,5 @@ ls
 chmod +x Tools.py
 
 python2 Tools.py
+
+(Do not use on your main account)
