@@ -10,6 +10,4 @@ python2 Tools.py
 
 (Do not use on your main account)
 
-https://postimg.cc/v1RzHSKy
-
-[url=https://postimg.cc/v1RzHSKy][img]https://i.postimg.cc/v1RzHSKy/Screenshot-20200721-161448.jpg[/img][/url]
+<a href='https://postimg.cc/v1RzHSKy' target='_blank'><img src='https://i.postimg.cc/v1RzHSKy/Screenshot-20200721-161448.jpg' border='0' alt='Screenshot-20200721-161448'/></a>
